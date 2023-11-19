@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alek Mikolajek</h1>
-<h3 align="center">A developer from France</h3>
+<h3 align="center">I am a developer from France</h3>
 <img align="right" alt="Code GIF" width="400" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
 
 - 🌱 I’m currently learning **PHP**
