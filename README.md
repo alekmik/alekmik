@@ -6,7 +6,7 @@
 <img align="right" alt="Code GIF" width="400" src="https://propulsioncarriere.ca/wp-content/uploads/2023/11/computing.gif">
 
 
-- 🌱 I’m currently learning **PHP**
+🌱 I’m currently learning **PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
