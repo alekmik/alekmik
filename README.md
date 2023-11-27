@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Alek Mikolajek</h1>
 <h3 align="center">A passionate developer from France</h3>
-<img align="right" alt="Code GIF" width="250" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
+<img align="right" alt="Code GIF" width="450" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
+
 
 - 🌱 I’m currently learning **PHP**
 
