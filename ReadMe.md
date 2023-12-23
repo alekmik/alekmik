@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a school project using PHP, Twig, a similar framework to Symfony<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning PHP for a certificate<br>💬 Ask me about PHP<br>⚡ Fun fact : I've watch more than 100 movies in 2023
+🔭 I’m currently working on a school project using PHP, Twig, a similar framework to Symfony<br>🤝 I’m looking for help with Symphony<br>🌱 I’m currently learning PHP for a certificate<br>💬 Ask me about PHP<br>⚡ Fun fact : I've watch more than 100 movies in 2023
 
 
 ## 🌐 Socials:
