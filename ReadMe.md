@@ -12,7 +12,7 @@
 
 # Link of my portfolio website:
 <a href="https://alek-mikolajek.netlify.app"><img src="https://github.com/alekmik/alekmik/assets/90455479/5cc65e9b-8c87-4cce-8156-22f464735964" width="50px"></a>
-<!-- 🌐 https://alek-mikolajek.netlify.app-->
+<!-- 🌐 https://alek-mikolajek.netlify.app -->
 
 
 
