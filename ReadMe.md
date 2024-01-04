@@ -2,7 +2,7 @@
 🔭 I’m currently working on a school project using PHP, Twig, a similar framework to Symfony<br>🤝 I’m looking for help with Symphony<br>🌱 I’m currently learning PHP for a certificate<br>💬 Ask me about PHP<br>⚡ Fun fact : I've watch more than 100 movies in 2023
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alekmikolajek) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alekmik) [![Codewars](https://www.codewars.com/users/alekmik/badges/micro)](https://www.codewars.com/users/alekmik)
 
 
