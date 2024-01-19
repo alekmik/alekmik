@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I finish working on a school project using PHP, Twig and a similar framework to Symfony<br>🌱 I’m currently buildin a web app using the API of TMDB<br>💬 Ask me about PHP<br>⚡ Fun fact : I've watch more than 100 movies in 2023
+🔭 I finish working on a school project using PHP, Twig and a similar framework to Symfony<br>🌱 I’m currently building a web app using the API of TMDB<br>💬 Ask me about PHP<br>⚡ Fun fact : I've watch more than 100 movies in 2023
 
 
 #  Socials:
