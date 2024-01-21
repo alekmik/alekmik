@@ -3,7 +3,7 @@
 
 
 #  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alekmikolajek) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alekmik) [![Codewars](https://www.codewars.com/users/alekmik/badges/small)](https://www.codewars.com/users/alekmik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alekmikolajek) <br> [![Codewars](https://www.codewars.com/users/alekmik/badges/small)](https://www.codewars.com/users/alekmik)
 
 
 
