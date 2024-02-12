@@ -1,7 +1,7 @@
 #  About Me:
 🔭 I finish working on a school project using PHP, Twig and a similar framework to Symfony<br>🌱 I’m currently building a web app using the API of TMDB<br>💬 Ask me about PHP<br>⚡ Fun fact : I've watch more than 100 movies in 2023
 
-# Link of my portfolio website:
+# Portfolio website:
 <a href="https://alek-mikolajek.netlify.app"><img src="https://github.com/alekmik/alekmik/assets/90455479/5cc65e9b-8c87-4cce-8156-22f464735964" width="50px"></a>
 <!-- 🌐 https://alek-mikolajek.netlify.app -->
 
